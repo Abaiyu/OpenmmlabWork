@@ -1,4 +1,4 @@
-# 模型配置为pspnet_monlen.py 需要注意一下数据集的问题
+# 模型配置为pspnet_melon.py 需要注意一下数据集的问题
 
 # 模型训练效果
 
